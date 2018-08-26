@@ -3,3 +3,8 @@
 ################################################################################
 
 /FlightFinder/FlightFinder.Client/bin/Debug/netstandard2.0
+/FlightFinder/FlightFinder.Server/bin/Debug/netcoreapp2.1
+/FlightFinder/FlightFinder.Server/obj
+/FlightFinder/FlightFinder.Shared/bin/Debug/netstandard2.0
+/FlightFinder/FlightFinder.Shared/obj
+/FlightFinder/FlightFinder.Client/obj
